@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Benjamin Miller! 👋
 
-<!--
-**BenMiller0/BenMiller0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- **Computer Science B.S., University of California, San Diego**  
+  - **GPA**: 3.9/4.0
+  - **Scholarships & Honors**: Regent Scholar, Jacobs School of Engineering, UC San Diego Scholar’s Society Member
+  - **Expected Graduation**: June 2027
 
-Here are some ideas to get you started:
+- **Relevant Coursework**: 
+  - *Computer Organization and Systems Programming* (C and ARM Assembly)
+  - *Advanced Data Structures and Algorithms* (C++)
+  - *Algorithm Design and Analysis*
+  - *Software Tools and Techniques* (Linux and Shell Scripts)
+  - *Object-Oriented Design* (Java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+### Programming Languages
+- **Java, JavaScript, TypeScript, Python, C/C++, ARM Assembly, MATLAB**
+
+### Operating Systems
+- **Linux, macOS, Windows**
+
+### Web Development
+- **Node.js, React, CSS, HTML**
+
+### Other Tools
+- **Git, LaTeX, Bash, CI/CD**
+
+## 💻 Experience
+
+### Outreach Officer & Board Member  
+*Themed Entertainment Association at UCSD*  
+**May 2024 - Present**  
+- Drove significant event attendance and club engagement through strategic outreach efforts across campus and social media.
+- Coordinated and led UCSD’s participation in national team competitions focused on interdisciplinary design and engineering.
+
+### Resident Advisor  
+*COSMOS, UC San Diego*  
+**July 2024 - August 2024**  
+- Mentored high school students during a residential program, fostering a supportive environment through event planning and inclusive activities.
+- Provided guidance as a counselor for the Video Game Programming and Game AI Design group, inspiring students to enhance their skills.
+
+## 🌟 Projects
+### Socket Surge: LaTeX Collaborative Compiler  
+*Project in a Box at UCSD*  
+**October 2024 - Present**  
+- Developed a browser-based LaTeX collaboration tool, enabling real-time editing for up to 5 users. 
+- Utilized React, Node.js, CSS, TypeScript, and various libraries to create an intuitive platform that enhances access to educational resources.
