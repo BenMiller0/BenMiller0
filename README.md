@@ -5,7 +5,7 @@
   - **GPA**: 3.9/4.0, **Jacobs School of Engineering**, **UC San Diego Scholar’s Society**
   - **Regent Scholar** (Merit-based scholarship awarded to UC undergraduates)
 
-- 📫 **How to reach me**: [LinkedIn](linkedin.com/in/benjamin-miller-919222233/)
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/benjamin-miller-919222233/)
 
 ## 🛠 Languages and Tools
 
