@@ -51,4 +51,4 @@
 ### Socket Surge: LaTeX Collaborative Compiler  
 *Project in a Box at UCSD* (October 2024 - Present)  
 https://github.com/yyunshanli/socket-surge
-- Developed a real-time LaTeX collaboration tool for up to 5 users, using **React, Node.js, CSS, TypeScript** to create an intuitive, accessible platform for collaborative editing and compiling.
+- Developing a real-time LaTeX collaboration tool for up to 4 users, using **React, Node.js, CSS, TypeScript** to create an intuitive, accessible platform for collaborative editing and compiling.
