@@ -52,3 +52,9 @@
 *Project in a Box at UCSD* (October 2024 - Present)  
 https://github.com/yyunshanli/socket-surge
 - Developing a real-time LaTeX collaboration tool for up to 4 users, using **React, Node.js, CSS, TypeScript** to create an intuitive, accessible platform for collaborative editing and compiling.
+
+### Animatronic 
+*Themed Entertianment Association* (Feburary 2025 - Present)  
+https://github.com/BenMiller0/teaAnimatronic
+- Working on robotic figure that can accomplish real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, validated by precise synchronization of mouth movements with audio input. Optimized audio processing on **Raspberry Pi** and efficiently transmitted processed data to **Arduino** for seamless control.
+- Project mission is to increase club interest at tabling events and provide vauble experince to project members.
