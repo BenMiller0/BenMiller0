@@ -38,7 +38,7 @@
 
 ## 💻 Experience
 
-### Outreach Officer & Board Member  
+### Vice President 
 *Themed Entertainment Association at UCSD* (May 2024 - Present)  
 - Led outreach efforts to increase event attendance and engagement, managing targeted social media campaigns and representing UCSD in national interdisciplinary competitions.
 
