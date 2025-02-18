@@ -56,5 +56,5 @@ https://github.com/yyunshanli/socket-surge
 ### Animatronic 
 *Themed Entertianment Association* (Feburary 2025 - Present)  
 https://github.com/BenMiller0/teaAnimatronic
-- Leading a team to create a robotic figure that can accomplish real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, validated by precise synchronization of mouth movements with audio input. Optimized audio processing on **Raspberry Pi** and efficiently transmitted processed data to **Arduino** for seamless control.
-- Project mission is to increase club interest at tabling events and provide vauble experince to project members.
+- Leading a team to create a robotic figure that can accomplish real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, validated by precise synchronization of mouth movements with audio input. Optimized audio processing on **Raspberry Pi** via the **advanced linux sound architecture** in **C**.
+- Project mission is to increase club interest at tabling events and provide valuable experince to project members.
