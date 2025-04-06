@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - **Computer Science B.S., University of California, San Diego** (Sept. 2023 – Expected June 2027)  
-  - **GPA**: 3.9/4.0, **Jacobs School of Engineering**, **UC San Diego Scholar’s Society**
+  - **GPA**: 3.8/4.0, **Jacobs School of Engineering**, **UC San Diego Scholar’s Society**
   - **Regent Scholar** (Merit-based scholarship awarded to UC undergraduates)
 
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/benjamin-miller-919222233/)
@@ -47,11 +47,6 @@
 - Mentored high school students during a residential program and provided personalized guidance to the Video Game Programming and Game AI Design group.
 
 ## 🌟 Featured Projects
-
-### Socket Surge: LaTeX Collaborative Compiler  
-*Project in a Box at UCSD* (October 2024 - Present)  
-https://github.com/yyunshanli/socket-surge
-- Developing a real-time LaTeX collaboration tool for up to 4 users, using **React, Node.js, CSS, TypeScript** to create an intuitive, accessible platform for collaborative editing and compiling.
 
 ### Animatronic 
 *Themed Entertianment Association* (Feburary 2025 - Present)  
