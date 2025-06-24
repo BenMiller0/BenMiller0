@@ -50,21 +50,25 @@
 
 ## 🌟 Projects
 
-### AI Gesture Response System for Themed Escape Room  
-[Repo](https://github.com/BenMiller0/ComputerVisionAttraction)
+### [AI Gesture Response System for Themed Escape Room](https://github.com/BenMiller0/ComputerVisionAttraction) 
 *April 2025 – Present*  
 - Enabled responsive actuation using a Raspberry Pi AI camera and custom-trained machine learning models in Python.  
 - Increased guest engagement with intuitive, touchless interactions.
 
-### Campus Events Planner Web Application  
+### [Campus Events Planner Web Application](https://github.com/cse110-sp25-group11/card-game)  
 *May 2025*  
 - Built a web app with HTML, CSS, and JavaScript to help users find and organize events.  
 - Included event storage and tracking system validated through user testing.
 
-### Themed Entertainment Association Website  
+### [Themed Entertainment Association Website](https://github.com/BenMiller0/teaatucsdsite)
 *April 2025*  
 - Created and maintained TEA at UCSD’s official site using Tailwind CSS and modern web practices.  
 - Boosted traffic and member signups through improved web presence.
+
+### [Interactive Animatronic Bird](https://github.com/BenMiller0/teaAnimatronic)
+*April 2025*  
+- Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi and efficiently transmitting processed data to an Arduino for seamless control.
+- Written in C
 
 ### Multi-threaded Sensor Scheduler  
 *January 2025*  
