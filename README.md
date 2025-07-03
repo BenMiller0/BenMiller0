@@ -25,7 +25,7 @@
 - Created and maintained TEA at UCSD’s official site using Tailwind CSS and modern web practices.  
 - Boosted traffic and member signups through improved web presence.
 
-### [Interactive Animatronic Bird](https://github.com/BenMiller0/teaAnimatronic)
+### [Interactive Robotic Figure in C/C++](https://github.com/BenMiller0/teaAnimatronic)
 *April 2025*  
 - Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi and efficiently transmitting processed data to an Arduino for seamless control.
 - Written in C.
