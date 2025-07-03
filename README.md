@@ -4,7 +4,6 @@
 **Computer Science B.S.** – University of California, San Diego (UCSD)  
 *Sept. 2023 – June 2027*  
 - GPA: 3.8/4.0, Jacobs School of Engineering  
-- UC San Diego Scholar’s Society  
 - Regent Scholar (merit-based scholarship awarded to UC undergraduates)  
 - Relevant Coursework: Advanced Data Structures and Algorithms (C++), Software Engineering (JavaScript, HTML, CSS), Embedded Programming (C, ARM Assembly), Algorithm Design and Analysis, Software Tools and Techniques (Linux, Shell Scripts), Object Oriented Design (Java)
 
