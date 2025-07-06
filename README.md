@@ -9,7 +9,7 @@
 
 ## 🌟 Projects
 
-### [AI Gesture Response System for Themed Escape Room](https://github.com/BenMiller0/ComputerVisionAttraction) 
+### [AI Gesture Response System](https://github.com/BenMiller0/ComputerVisionAttraction) 
 *April 2025 – Present*  
 - Enabled responsive actuation using a Raspberry Pi AI camera and custom-trained machine learning models in Python.  
 - Increased guest engagement with intuitive, touchless interactions.
@@ -28,11 +28,6 @@
 *April 2025*  
 - Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi and efficiently transmitting processed data to an Arduino for seamless control.
 - Written in C.
-
-### Multi-threaded Sensor Scheduler  
-*January 2025*  
-- Wrote a C-based multithreaded scheduler for sensor data collection and processing.  
-- Improved response times and system reliability through optimized thread management.  
 
 ## 🛠 Skills
 
