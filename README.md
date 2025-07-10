@@ -9,6 +9,11 @@
 
 ## 🌟 Projects
 
+### [Grade Predictor Neural Network](https://github.com/BenMiller0?tab=repositories) 
+*July 2025 – Present*  
+- Enabled responsive actuation using a Raspberry Pi AI camera and custom-trained machine learning models in Python.  
+- Increased guest engagement with intuitive, touchless interactions.
+
 ### [AI Computer Vision Gesture Response System](https://github.com/BenMiller0/ComputerVisionAttraction) 
 *April 2025 – Present*  
 - Enabled responsive actuation using a Raspberry Pi AI camera and custom-trained machine learning models in Python.  
