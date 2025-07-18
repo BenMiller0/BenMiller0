@@ -39,6 +39,7 @@
 **Programming Languages**: Java, JavaScript, TypeScript, Python, C/C++, MATLAB  
 **Operating Systems**: Linux, macOS, Windows  
 **Web Development**: jQuery, Hugo, Node.js, React, CSS, HTML  
+**Machine Learning**: PyTorch, NumPy, Computer Vision, Pandas
 **Other**: Git Version Control, LaTeX, Bash, CI/CD, Scrum/Agile, Virtual Machines  
 
 ## 💼 Experience
