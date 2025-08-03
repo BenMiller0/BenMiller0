@@ -11,8 +11,7 @@
 
 ### [Grade Predictor Neural Network](https://github.com/BenMiller0/GradePredictionModel) 
 *July 2025 – Present*  
-- Enabled responsive actuation using a Raspberry Pi AI camera and custom-trained machine learning models in Python.  
-- Increased guest engagement with intuitive, touchless interactions.
+- Letter-grade prediction via a PyTorch feedforward neural network, as shown by accurate prediction of a student's target course grade based on past academic history and public course data such as professor rating.
 
 ### [AI Computer Vision Gesture Response System](https://github.com/BenMiller0/ComputerVisionAttraction) 
 *April 2025 – Present*  
