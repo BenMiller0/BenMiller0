@@ -63,11 +63,6 @@
 Enhanced website usability by modifying and developing JavaScript and Python scripts, as demonstrated by streamlined content management and maintenance workflows, while using Git for version control in a large-scale team environment.  
 Worked on the development and maintenance of a website receiving 2,000+ unique daily visitors by leveraging JavaScript and other web development tools, as shown by consistent site reliability.
 
-**Technical Software Lead, Project in a Box at UCSD**  
-*Jun. 2024 – Present*  
-Designed and led the technical architecture for a full-stack web event check-in application with integrated hardware components.  
-Accomplished seamless event check-ins via ESP 32 sending data to a web application, measured by increased efficiency in event logistics and enhanced attendee experience.
-
 **Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
 Accomplished leadership of the organization’s software development initiatives via Agile methodologies and collaborative sprints, as reflected by successful deployment of software-based projects at on-campus events and on-time project milestones.  
