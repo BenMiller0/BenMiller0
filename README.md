@@ -31,6 +31,8 @@
 
 ## 🌟 Projects
 
+### Veiw my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
+
 ### [Grade Predictor Neural Network](https://github.com/BenMiller0/GradePredictionModel) 
 *July 2025 – Present*  
 - Letter-grade prediction via a PyTorch feedforward neural network, as shown by accurate prediction of a student's target course grade based on past academic history and public course data such as professor rating.
