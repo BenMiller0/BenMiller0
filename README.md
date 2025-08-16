@@ -45,28 +45,28 @@
 - Built a web app with HTML, CSS, and JavaScript to help users find and organize events.  
 - Included event storage and tracking system validated through user testing.
 
-### [Themed Entertainment Association Website](https://github.com/BenMiller0/teaatucsdsite)
-*April 2025*  
-- Created and maintained TEA at UCSD’s official site using Tailwind CSS and modern web practices.  
-- Boosted traffic and member signups through improved web presence.
-
 ### [Interactive Robotic Figure in C/C++](https://github.com/BenMiller0/teaAnimatronic)
 *April 2025*  
 - Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi and efficiently transmitting processed data to an Arduino for seamless control.
 - Written in C.
 
+### [Themed Entertainment Association Website](https://github.com/BenMiller0/teaatucsdsite)
+*April 2025*  
+- Created and maintained TEA at UCSD’s official site using Tailwind CSS and modern web practices.  
+- Boosted traffic and member signups through improved web presence.
+
 
 ## 💼 Experience
-
-**Software Developer Intern, Center for Applied Internet Data Analysis (CAIDA)**  
-*Apr. 2025 – Present*  
-Enhanced website usability by modifying and developing JavaScript and Python scripts, as demonstrated by streamlined content management and maintenance workflows, while using Git for version control in a large-scale team environment.  
-Worked on the development and maintenance of a website receiving 2,000+ unique daily visitors by leveraging JavaScript and other web development tools, as shown by consistent site reliability.
 
 **Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
 Accomplished leadership of the organization’s software development initiatives via Agile methodologies and collaborative sprints, as reflected by successful deployment of software-based projects at on-campus events and on-time project milestones.  
 Organized and represented UCSD in national engineering team competitions, as evidenced by successful participation in events requiring interdisciplinary design and engineering skills, by coordinating team efforts and ensuring effective collaboration.
+
+**Software Developer Intern, Center for Applied Internet Data Analysis (CAIDA)**  
+*Apr. 2025 – Aug. 2025*  
+Enhanced website usability by modifying and developing JavaScript and Python scripts, as demonstrated by streamlined content management and maintenance workflows, while using Git for version control in a large-scale team environment.  
+Worked on the development and maintenance of a website receiving 2,000+ unique daily visitors by leveraging JavaScript and other web development tools, as shown by consistent site reliability.
 
 **Resident Advisor, COSMOS UCSD**  
 *Jul. 2024 – Aug. 2024*  
