@@ -33,14 +33,18 @@
 
 ### Veiw my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
 
-### [Grade Predictor Neural Network](https://github.com/BenMiller0/GradePredictionModel) 
-*July 2025 – Present*  
-- Letter-grade prediction via a PyTorch feedforward neural network, as shown by accurate prediction of a student's target course grade based on past academic history and public course data such as professor rating.
-
 ### [AI Computer Vision Gesture Response System](https://github.com/BenMiller0/ComputerVisionAttraction) 
 *April 2025 – Present*  
 - Enabled responsive actuation using a Raspberry Pi AI camera and custom-trained machine learning models in Python.  
 - Increased guest engagement with intuitive, touchless interactions.
+
+### [Multi-threaded File Compressor in C++](https://github.com/BenMiller0/multiThreadedCompressor) 
+*August 2025*  
+- Created a multithreaded file compression application, as measured by improved compression time, by optimizing thread management and synchronization.
+
+### [Grade Predictor Neural Network](https://github.com/BenMiller0/GradePredictionModel) 
+*July 2025*  
+- Letter-grade prediction via a PyTorch feedforward neural network, as shown by accurate prediction of a student's target course grade based on past academic history and public course data such as professor rating.
 
 ### [Campus Events Planner Web Application](https://github.com/cse110-sp25-group11/card-game)  
 *May 2025*  
@@ -59,18 +63,21 @@
 
 
 ## 💼 Experience
+**Software Engineering Intern, Western Digital Sep. 2025 - Present**
+*Sept. 2025 – Present*  
+- Currently working on C++ firmware, building Python test tools, and diving into real time operating system (RTOS) level code that ships in enterprise-class hard disk drives ( HDDs).
 
 **Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
-Accomplished leadership of the organization’s software development initiatives via Agile methodologies and collaborative sprints, as reflected by successful deployment of software-based projects at on-campus events and on-time project milestones.  
+- Accomplished leadership of the organization’s software development initiatives via Agile methodologies and collaborative sprints, as reflected by successful deployment of software-based projects at on-campus events and on-time project milestones.  
 Organized and represented UCSD in national engineering team competitions, as evidenced by successful participation in events requiring interdisciplinary design and engineering skills, by coordinating team efforts and ensuring effective collaboration.
 
 **Software Developer Intern, Center for Applied Internet Data Analysis (CAIDA)**  
 *Apr. 2025 – Aug. 2025*  
-Enhanced website usability by modifying and developing JavaScript and Python scripts, as demonstrated by streamlined content management and maintenance workflows, while using Git for version control in a large-scale team environment.  
+- Enhanced website usability by modifying and developing JavaScript and Python scripts, as demonstrated by streamlined content management and maintenance workflows, while using Git for version control in a large-scale team environment.  
 Worked on the development and maintenance of a website receiving 2,000+ unique daily visitors by leveraging JavaScript and other web development tools, as shown by consistent site reliability.
 
 **Resident Advisor, COSMOS UCSD**  
 *Jul. 2024 – Aug. 2024*  
-Provided guidance and mentorship as a counselor for the Video Game Programming and Game AI Design group, as demonstrated by meaningful interactions and personalized advice to empower future engineers.
+- Provided guidance and mentorship as a counselor for the Video Game Programming and Game AI Design group, as demonstrated by meaningful interactions and personalized advice to empower future engineers.
 
