@@ -63,8 +63,8 @@
 
 
 ## 💼 Experience
-**Software Engineering Intern, Western Digital Sep. 2025 - Present**
-*Sept. 2025 – Present*  
+**Software Engineering Intern, Western Digital**  
+*Sept. 2025 – Present*   
 - Currently working on C++ firmware, building Python test tools, and diving into real time operating system (RTOS) level code that ships in enterprise-class hard disk drives ( HDDs).
 
 **Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
