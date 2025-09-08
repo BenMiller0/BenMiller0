@@ -31,7 +31,7 @@
 
 ## 🌟 Projects
 
-### Veiw my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
+### View my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
 
 ### [AI Computer Vision Gesture Response System](https://github.com/BenMiller0/ComputerVisionAttraction) 
 *April 2025 – Present*  
