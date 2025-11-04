@@ -55,7 +55,7 @@
 *April 2025*  
 - Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi and efficiently transmitting processed data to an Arduino for seamless control.
 
-### [Themed Entertainment Association Website](https://github.com/BenMiller0/teaatucsdsite)
+### [Themed Entertainment Association Website](https://github.com/tea-at-ucsd/teaatucsdsite)
 *April 2025*  
 - Created and maintained TEA at UCSD’s official site using Tailwind CSS and modern web practices.  
 - Boosted traffic and member signups through improved web presence.
@@ -64,12 +64,12 @@
 ## 💼 Experience
 **Software Engineering Intern, Western Digital**  
 *Sept. 2025 – Present*   
-- Currently working on C++ firmware, building Python test tools, and diving into real time operating system (RTOS) level code that ships in enterprise-class hard disk drives ( HDDs).
+- Designing and implementing C++ firmware for hard drives in an agile environment, validated through comprehensive unit and integration testing.
 
 **Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
-- Accomplished leadership of the organization’s software development initiatives via Agile methodologies and collaborative sprints, as reflected by successful deployment of software-based projects at on-campus events and on-time project milestones.  
-Organized and represented UCSD in national engineering team competitions, as evidenced by successful participation in events requiring interdisciplinary design and engineering skills, by coordinating team efforts and ensuring effective collaboration.
+- Led software development of themed attraction production software on microcontrollers and microprocessors (Python, C, C++), enabling reliable operations and developed the association’s website (JavaScript, CI/CD).
+- Organized and represented UCSD in national engineering competitions, driving successful interdisciplinary design through team leadership and cross-functional collaboration.
 
 **Software Developer Intern, Center for Applied Internet Data Analysis (CAIDA)**  
 *Apr. 2025 – Aug. 2025*  
