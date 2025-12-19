@@ -62,14 +62,18 @@
 
 
 ## 💼 Experience
-**Software Engineering Intern, Western Digital**  
-*Sept. 2025 – Present*   
-- Designing and implementing C++ firmware for hard drives in an agile environment, validated through comprehensive unit and integration testing.
 
 **Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
 - Led software development of themed attraction production software on microcontrollers and microprocessors (Python, C, C++), enabling reliable operations and developed the association’s website (JavaScript, CI/CD).
 - Organized and represented UCSD in national engineering competitions, driving successful interdisciplinary design through team leadership and cross-functional collaboration.
+
+**Software Engineering Intern, Western Digital**  
+*Sept. 2025 – Dec. 2025*   
+- Designed and implemented C++ firmware for hard drives in an Agile development environment, validated through comprehensive unit and integration testing.
+- Improved hard drive firmware reliability and infrastructure via developing and testing embedded C++ features, validated through higher code quality.
+- Developed internal tool for accelerating integration testing via a Python microservice and full stack application, as seen by successful end to end demonstrations.
+
 
 **Software Developer Intern, Center for Applied Internet Data Analysis (CAIDA)**  
 *Apr. 2025 – Aug. 2025*  
