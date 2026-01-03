@@ -35,8 +35,7 @@
 
 ### [AI Computer Vision Gesture Response System](https://github.com/BenMiller0/ComputerVisionAttraction) 
 *April 2025 – Present*  
-- Enabled responsive actuation using a Raspberry Pi AI camera and custom-trained machine learning models in Python.  
-- Increased guest engagement with intuitive, touchless interactions.
+- Deployed a real-time computer vision model on a Raspberry Pi AI Accelerator Camera by tuning inferencing in Python to enable low-latency, responsive gesture-control for an interactive storytelling installation on campus.
 
 ### [Multi-threaded File Compressor in C++](https://github.com/BenMiller0/multiThreadedCompressor) 
 *August 2025*  
@@ -71,14 +70,14 @@
 **Software Engineering Intern, Western Digital**  
 *Sept. 2025 – Dec. 2025*   
 - Designed and implemented C++ firmware for hard drives in an Agile development environment, validated through comprehensive unit and integration testing.
-- Improved hard drive firmware reliability and infrastructure via developing and testing embedded C++ features, validated through higher code quality.
-- Developed internal tool for accelerating integration testing via a Python microservice and full stack application, as seen by successful end to end demonstrations.
+- Enhanced hard drive firmware reliability and infrastructure by developing and testing embedded C++ features, resulting in improved code quality and system stability.
+- Developed internal tool for accelerating remote server-based integration testing via a Python microservice and full stack application, as seen by successful end-to-end demonstrations.
 
 
 **Software Developer Intern, Center for Applied Internet Data Analysis (CAIDA)**  
 *Apr. 2025 – Aug. 2025*  
 - Enhanced website usability by modifying and developing JavaScript and Python scripts, as demonstrated by streamlined content management and maintenance workflows, while using Git for version control in a large-scale team environment.  
-Worked on the development and maintenance of a website receiving 2,000+ unique daily visitors by leveraging JavaScript and other web development tools, as shown by consistent site reliability.
+- Worked on the development and maintenance of a website receiving 2,000+ unique daily visitors by leveraging JavaScript and other web development tools, as shown by consistent site reliability.
 
 **Resident Advisor, COSMOS UCSD**  
 *Jul. 2024 – Aug. 2024*  
