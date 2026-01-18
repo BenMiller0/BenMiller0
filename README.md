@@ -52,7 +52,7 @@
 
 ### [Interactive Robotic Figure in C/C++](https://github.com/BenMiller0/teaAnimatronic)
 *April 2025*  
-- Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi and efficiently transmitting processed data to an Arduino for seamless control.
+- Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi.
 
 ### [Themed Entertainment Association Website](https://github.com/tea-at-ucsd/teaatucsdsite)
 *April 2025*  
