@@ -1,4 +1,4 @@
-# Hi there, I'm Benjamin! 👋
+# Benjamin Miller
 
 ## 📚 Education
 **Computer Science B.S.** – University of California, San Diego (UCSD)  
@@ -14,13 +14,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-35495E?style=for-the-badge&logo=arm&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00BFFF?style=for-the-badge&logo=verilog&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-EA3A30?style=for-the-badge&logo=mathworks&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
 ### Hardware  
-![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Sensors](https://img.shields.io/badge/Sensors-4CAF50?style=for-the-badge) ![Motors](https://img.shields.io/badge/Motors-9C27B0?style=for-the-badge) ![Camera Modules](https://img.shields.io/badge/Camera%20Modules-607D8B?style=for-the-badge) ![Power Supply Units](https://img.shields.io/badge/Power%20Supply%20Units-FF5722?style=for-the-badge) ![RTL](https://img.shields.io/badge/Register%20Transfer%20Logic-00BCD4?style=for-the-badge) ![Communication Modules](https://img.shields.io/badge/Communication%20Modules-2196F3?style=for-the-badge)  
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Sensors](https://img.shields.io/badge/Sensors-4CAF50?style=for-the-badge) ![Motors](https://img.shields.io/badge/Motors-9C27B0?style=for-the-badge)![RTL](https://img.shields.io/badge/Register%20Transfer%20Logic-00BCD4?style=for-the-badge) 
 
 ### Machine Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0E4C92?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
 ### Operating Systems  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ### Web/App Development  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
