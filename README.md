@@ -29,37 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum%2FAgile-0E4C92?style=for-the-badge) ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 
-## 🌟 Projects
-
-### View my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
-
-### [AI Computer Vision Gesture Response System](https://github.com/BenMiller0/ComputerVisionAttraction) 
-*April 2025 – Present*  
-- Deployed a real-time computer vision model on a Raspberry Pi AI Accelerator Camera by tuning inferencing in Python to enable low-latency, responsive gesture-control for an interactive storytelling installation on campus.
-
-### [Multi-threaded File Compressor in C++](https://github.com/BenMiller0/multiThreadedCompressor) 
-*August 2025*  
-- Created a multithreaded file compression application, as measured by improved compression time, by optimizing thread management and synchronization.
-
-### [Grade Predictor Neural Network](https://github.com/BenMiller0/GradePredictionModel) 
-*July 2025*  
-- Letter-grade prediction via a PyTorch feedforward neural network, as shown by accurate prediction of a student's target course grade based on past academic history and public course data such as professor rating.
-
-### [Campus Events Planner Web Application](https://github.com/cse110-sp25-group11/card-game)  
-*May 2025*  
-- Built a web app with HTML, CSS, and JavaScript to help users find and organize events.  
-- Included event storage and tracking system validated through user testing.
-
-### [Interactive Robotic Figure in C/C++](https://github.com/BenMiller0/teaAnimatronic)
-*April 2025*  
-- Accomplished real-time voice-controlled motor movement to simulate realistic robotic mouth speaking, as validated by precise synchronization of mouth movements with audio input, by optimizing audio processing on a Raspberry Pi.
-
-### [Themed Entertainment Association Website](https://github.com/tea-at-ucsd/teaatucsdsite)
-*April 2025*  
-- Created and maintained TEA at UCSD’s official site using Tailwind CSS and modern web practices.  
-- Boosted traffic and member signups through improved web presence.
-
-
 ## 💼 Experience
 
 **Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
