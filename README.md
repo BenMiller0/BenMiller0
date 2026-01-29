@@ -4,9 +4,8 @@
 **Computer Science B.S.** – University of California, San Diego (UCSD)  
 *Sept. 2023 – June 2027*  
 - GPA: 3.8/4.0, Jacobs School of Engineering  
-- Regent Scholar (merit-based scholarship awarded to UC undergraduates)  
-- Relevant Coursework: Advanced Data Structures and Algorithms (C++), Software Engineering (JavaScript, HTML, CSS), Embedded Programming (C, ARM Assembly), Algorithm Design and Analysis, Software Tools and Techniques (Linux, Shell Scripts), Object Oriented Design (Java)
-
+- Regent Scholar (Merit-based, top 1.5% of class)  
+- Relevant Coursework: Advanced Data Structures and Algorithms, Software Engineering, Embedded Programming, Algorithm Design and Analysis, Object Oriented Design
 
 ## 🛠 Skills
 
@@ -19,14 +18,12 @@
 ### Machine Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0E4C92?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
-### Operating Systems  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ### Web/App Development  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
 
 ### Other  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum%2FAgile-0E4C92?style=for-the-badge) ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum%2FAgile-0E4C92?style=for-the-badge) ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ## 🔎 View my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
 
