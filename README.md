@@ -5,12 +5,12 @@
 *Sept. 2023 – June 2027*  
 - GPA: 3.8/4.0, Jacobs School of Engineering  
 - Regent Scholar (Merit-based, top 1.5% of class)  
-- Relevant Coursework: Advanced Data Structures and Algorithms, Software Engineering, Embedded Programming, Algorithm Design and Analysis, Object Oriented Design
+- Relevant Coursework: Advanced Data Structures and Algorithms, Software Engineering, Embedded Programming, Object Oriented Design
 
 ## 🛠 Skills
 
 ### Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-35495E?style=for-the-badge&logo=arm&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00BFFF?style=for-the-badge&logo=verilog&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-EA3A30?style=for-the-badge&logo=mathworks&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-35495E?style=for-the-badge&logo=arm&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00BFFF?style=for-the-badge&logo=verilog&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-EA3A30?style=for-the-badge&logo=mathworks&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Hardware  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white) ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-607D8B?style=for-the-badge) ![GPIO](https://img.shields.io/badge/GPIO-4CAF50?style=for-the-badge) ![I2C](https://img.shields.io/badge/I2C-009688?style=for-the-badge) ![PWM](https://img.shields.io/badge/PWM-FF9800?style=for-the-badge) ![Servos](https://img.shields.io/badge/Servos-795548?style=for-the-badge) ![Firmware](https://img.shields.io/badge/Firmware-3F51B5?style=for-the-badge)
