@@ -29,7 +29,7 @@
 
 ## 💼 Experience
 
-**Software Engineering Lead & President, Themed Entertainment Association at UCSD**  
+**Software Engineering Lead & VP, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
 - Led software development of themed attraction production software on microcontrollers and microprocessors (Python, C, C++), enabling reliable operations and developed the association’s website (JavaScript, CI/CD).
 - Organized and represented UCSD in national engineering competitions, driving successful interdisciplinary design through team leadership and cross-functional collaboration.
