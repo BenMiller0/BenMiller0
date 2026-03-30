@@ -5,7 +5,7 @@
 *Sept. 2023 – June 2027*  
 - GPA: 3.8/4.0, Jacobs School of Engineering  
 - Regent Scholar (Merit-based, top 1.5% of class)  
-- Relevant Coursework: Advanced Data Structures and Algorithms, Software Engineering, Embedded Programming, Object Oriented Design
+- Relevant Coursework: Advanced Data Structures and Algorithms, Operating Systems, Software Engineering, Embedded Programming, Object Oriented Design
 
 ## 🛠 Skills
 
