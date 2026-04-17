@@ -1,13 +1,15 @@
 # Benjamin Miller
 
-## 📚 Education
+## --> View my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
+
+## Education
 **Computer Science B.S.** – University of California, San Diego (UCSD)  
 *Sept. 2023 – June 2027*  
 - GPA: 3.8/4.0, Jacobs School of Engineering  
 - Regent Scholar (Merit-based, top 1.5% of class)  
 - Relevant Coursework: Advanced Data Structures and Algorithms, Operating Systems, Software Engineering, Embedded Programming, Object Oriented Design
 
-## 🛠 Skills
+## Skills
 
 ### Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-35495E?style=for-the-badge&logo=arm&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00BFFF?style=for-the-badge&logo=verilog&logoColor=white)
@@ -24,9 +26,7 @@
 ### Tools & DevOps  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum%2FAgile-0E4C92?style=for-the-badge)
 
-## 🔎 View my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
-
-## 💼 Experience
+## Experience
 
 **Software Engineering Lead & VP, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
