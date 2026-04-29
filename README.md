@@ -28,6 +28,10 @@
 
 ## Experience
 
+**Electronic Props Designer, Star Wars Club at UCSD**  
+*Mar. 2026 – Present*  
+- Designed embedded systems and C++ firmware for props for film making and on campus promotional props using a real time operating system (RTOS) and microcontrollers resulting in screen accurate prop recreations.
+
 **Software Engineering Lead & VP, Themed Entertainment Association at UCSD**  
 *Jun. 2024 – Present*  
 - Led software development of themed attraction production software on microcontrollers and microprocessors (Python, C, C++), enabling reliable operations and developed the association’s website (JavaScript, CI/CD).
