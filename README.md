@@ -4,8 +4,7 @@
 
 ## Education
 **Computer Science B.S.** – University of California, San Diego (UCSD)  
-*Sept. 2023 – June 2027*  
-- GPA: 3.8/4.0, Jacobs School of Engineering  
+Sept. 2023 – June 2027, GPA: 3.8/4.0, Jacobs School of Engineering  
 
 ## Skills
 
