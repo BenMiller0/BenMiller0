@@ -1,13 +1,11 @@
 # Benjamin Miller
 
-## --> View my [portfolio website](https://benjaminmillerportfolio.onrender.com/)
+## -- [View my portfolio website](https://benjaminmillerportfolio.onrender.com/) -- 
 
 ## Education
 **Computer Science B.S.** – University of California, San Diego (UCSD)  
 *Sept. 2023 – June 2027*  
 - GPA: 3.8/4.0, Jacobs School of Engineering  
-- Regent Scholar (Merit-based, top 1.5% of class)  
-- Relevant Coursework: Advanced Data Structures and Algorithms, Operating Systems, Software Engineering, Embedded Programming, Object Oriented Design
 
 ## Skills
 
@@ -26,30 +24,4 @@
 ### Tools & DevOps  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-607D8B?style=for-the-badge&logo=virtualbox&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum%2FAgile-0E4C92?style=for-the-badge)
 
-## Experience
-
-**Electronic Props Designer, Star Wars Club at UCSD**  
-*Mar. 2026 – Present*  
-- Designed embedded systems and C++ firmware for props for film making and on campus promotional props using a real time operating system (RTOS) and microcontrollers resulting in screen accurate prop recreations.
-
-**Software Engineering Lead & VP, Themed Entertainment Association at UCSD**  
-*Jun. 2024 – Present*  
-- Led software development of themed attraction production software on microcontrollers and microprocessors (Python, C, C++), enabling reliable operations and developed the association’s website (JavaScript, CI/CD).
-- Organized and represented UCSD in national engineering competitions, driving successful interdisciplinary design through team leadership and cross-functional collaboration.
-
-**Software Engineering Intern, Western Digital**  
-*Sept. 2025 – Dec. 2025*   
-- Designed and implemented C++ firmware for hard drives in an Agile development environment, validated through comprehensive unit and integration testing.
-- Enhanced hard drive firmware reliability and infrastructure by developing and testing embedded C++ features, resulting in improved code quality and system stability.
-- Developed internal tool for accelerating remote server-based integration testing via a Python microservice and full stack application, as seen by successful end-to-end demonstrations.
-
-
-**Software Developer Intern, Center for Applied Internet Data Analysis (CAIDA)**  
-*Apr. 2025 – Aug. 2025*  
-- Enhanced website usability by modifying and developing JavaScript and Python scripts, as demonstrated by streamlined content management and maintenance workflows, while using Git for version control in a large-scale team environment.  
-- Worked on the development and maintenance of a website receiving 2,000+ unique daily visitors by leveraging JavaScript and other web development tools, as shown by consistent site reliability.
-
-**Resident Advisor, COSMOS UCSD**  
-*Jul. 2024 – Aug. 2024*  
-- Provided guidance and mentorship as a counselor for the Video Game Programming and Game AI Design group, as demonstrated by meaningful interactions and personalized advice to empower future engineers.
 
